@@ -23,7 +23,7 @@ If your command is only going to return a string, ex - `!hello` returns `Welcome
 
 ```python
 '!hello': {
-		'limit': 10,
+		'limit': 30,
 		'return': 'Welcome!'
 }
 ```
